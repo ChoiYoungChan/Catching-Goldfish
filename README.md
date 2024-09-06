@@ -1,5 +1,7 @@
 # Catching-Goldfish
 
+# モバイル向けて実装した為UnityのPlatformをPCではなくAndroidモードにして確認をお願い致します。
+
 祭りの時よくする金魚すくいを作りました。
 
 使用した技術
